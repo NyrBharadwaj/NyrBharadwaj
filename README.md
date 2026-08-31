@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyor Bharadwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
+<img src="https://www.shutterstock.com/image-vector/flag-india-emoji-symbol-sign-600nw-2662765761.jpg" width="40" height="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyrbharadwaj&label=Profile%20views&color=0e75b6&style=flat" alt="nyrbharadwaj" /> </p>
 
